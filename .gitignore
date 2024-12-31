@@ -1,5 +1,7 @@
 eye_dataset/
 yawn_dataset/
-
+utils/
+*.h5
 *.jpg
 *.jpeg
+.DS_Store
